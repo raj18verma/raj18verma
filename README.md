@@ -1,8 +1,7 @@
-
-
+![logo](https://media.licdn.com/dms/image/D4E16AQGb5dDtJRGNUw/profile-displaybackgroundimage-shrink_350_1400/0/1667101771652?e=1684368000&v=beta&t=iZDvK-m9A9MaNAJEqMU_uGc6pszrQZO92GqXbgC-XtQ)
 <h1 align="center">Hi 👋, I'm Raj Verma</h1>
 <h3 align="center">Trying my best to cope up in both Coding and Development😙</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<img align="right" alt="Coding" width="500" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj18verma&label=Profile%20views&color=0e75b6&style=flat" alt="raj18verma" /> </p>
 
