@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D4E16AQGb5dDtJRGNUw/profile-displaybackgroundimage-shrink_350_1400/0/1667101771652?e=1684368000&v=beta&t=iZDvK-m9A9MaNAJEqMU_uGc6pszrQZO92GqXbgC-XtQ)
+![logo]([https://media.licdn.com/dms/image/D4E16AQGb5dDtJRGNUw/profile-displaybackgroundimage-shrink_350_1400/0/1667101771652?e=1684368000&v=beta&t=iZDvK-m9A9MaNAJEqMU_uGc6pszrQZO92GqXbgC-XtQ](https://media.licdn.com/dms/image/D4E16AQGb5dDtJRGNUw/profile-displaybackgroundimage-shrink_350_1400/0/1667101771652?e=1693440000&v=beta&t=_TDE5O_2lZUvECXqLQy1GRd_iTUQHGoHHub0__2d3UM))
 <h1 align="center">Hi 👋, I'm Raj Verma</h1>
 <h3 align="center">Trying my best to cope up in both Coding and Development😙</h3>
 <img align="right" alt="Coding" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
