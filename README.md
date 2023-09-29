@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raj18verma&show_icons=true&locale=en" alt="raj18verma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj18verma&" alt="raj18verma" /></p>
+
+[![An image of @raj18verma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raj18verma)](https://holopin.io/@raj18verma)
